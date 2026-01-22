@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour apprev="21010" appversion="7.1.11" start="node1" hassounds="0">
   <panorama id="node1">
-    <input levelbias="0.400" levelingpitch="-1" leveltilesize="510" overlap="1" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2546" height="2546">
+    <input levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2546" height="2546">
       <level predecode="0" preload="0" width="2546" height="2546"/>
       <level predecode="0" preload="0" width="1273" height="1273"/>
       <level predecode="0" preload="0" width="636" height="636"/>
